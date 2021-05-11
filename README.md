@@ -1,0 +1,2 @@
+# AMANATS
+GitHub Pages
