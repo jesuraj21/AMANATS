@@ -18,10 +18,11 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionPublish": "5.3.5",
     "uniqCompNum": 28,
-    "mbrsiteDomain": "q0zw6vsxzk"
+    "mbrsiteDomain": "q0zw6vsxzk",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -370,7 +371,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2021-05-07-at-7.20.48-pm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -512,7 +513,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PENGARAH EKSEKUTIF<br><br>",
-          "text": "Encik Permal Kunder A/L Karupan telah berkhidmat di dalam Kementerian Pendidikan Malaysia sebagai Guru Terlatih selama 8 tahun di Sekolah Menengah Jalan San Peng, Kuala Lumpur. Beliau kemudian telah mencerburi bidang swasta mulai tahun 1998. Antara bidang-bidang yang dicuburi dan pengalam beliau ialah Pembinaan, Pengurusan Hartanah, Pengurusan Bangunan, Pengurus Kewangan, Pengarah Eksekutif dan sebagai pangarah serta penasihat beberapa syarikat swasta.&nbsp;<br><br>Beliau berkelulusan Sarjana dalam Pengurusan Perniagaan dari Kuala Lumpur Infrastructure University College (2010) dan Advance Diploma dalam Pentadbiran Perniagaan dari Rima College Group (1995). Dengan pengalaman yang luas dan pengetahuan dalam bidang korporat ini beliau akan berkemampuan untuk menjadikan Amanats security Sdn. Bhd sebuah syarikat dianamik dan maju.&nbsp;",
+          "text": "Encik Permal Kunder A/L Karupan telah berkhidmat di dalam Kementerian Pendidikan Malaysia sebagai Guru Terlatih selama 8 tahun di Sekolah Menengah Jalan San Peng, Kuala Lumpur. Beliau kemudian telah mencerburi bidang swasta mulai tahun 1998. Antara bidang-bidang yang dicuburi dan pengalaman beliau ialah Pembinaan, Pengurusan Hartanah, Pengurusan Bangunan, Pengurus Kewangan, Pengarah Eksekutif dan sebagai pangarah serta penasihat beberapa syarikat swasta.&nbsp;<br><br>Beliau berkelulusan Sarjana dalam Pengurusan Perniagaan dari Kuala Lumpur Infrastructure University College (2010) dan Advance Diploma dalam Pentadbiran Perniagaan dari Rima College Group (1995). Dengan pengalaman yang luas dan pengetahuan dalam bidang korporat ini beliau akan berkemampuan untuk menjadikan Amanats security Sdn. Bhd sebuah syarikat dianamik dan maju.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -596,7 +597,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2021-05-07-at-7.20.48-pm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -681,7 +682,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cit-1.png",
+              "src": "@PROJECT_PATH@/assets/images/ams-cit.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -704,7 +705,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ams-cit.png",
+              "src": "@PROJECT_PATH@/assets/images/cit-1.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1030,7 +1031,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2021-05-07-at-7.20.48-pm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1122,7 +1123,7 @@
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
@@ -1190,7 +1191,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screenshot-2021-05-07-at-7.20.48-pm-1.png",
+              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
