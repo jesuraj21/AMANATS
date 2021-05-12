@@ -18,11 +18,11 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionPublish": "5.3.5",
     "uniqCompNum": 28,
     "mbrsiteDomain": "q0zw6vsxzk",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
