@@ -20,7 +20,7 @@
     "gdpr": false,
     "currentPage": "index.html",
     "versionPublish": "5.3.5",
-    "uniqCompNum": 28,
+    "uniqCompNum": 29,
     "mbrsiteDomain": "q0zw6vsxzk",
     "publishChangesOnly": true
   },
@@ -36,6 +36,22 @@
       },
       "components": [
         {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pegawai kanan syarikat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\">Perkhidmatan</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ENGLISH</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=ta&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html&amp;sandbox=1\" aria-expanded=\"false\" target=\"_blank\">TAMIL</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=zh-CN&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html\" aria-expanded=\"true\">MANDARIN<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">CONTACT US<br></a></li>",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -55,22 +71,10 @@
               "color": "#ffffff"
             }
           },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"false\">Perkhidmatan&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ams.png",
+              "src": "@PROJECT_PATH@/assets/images/brand-new-logos-.png",
               "class": "",
               "height": 128,
               "alt": "",
@@ -78,12 +82,9 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-4"
+          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY&nbsp;</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-s"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -96,8 +97,8 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/home-page-3-1.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/new-design-6.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -105,23 +106,26 @@
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
+                "alt": "",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#7c706b"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/home-page-4.png",
+                "image": "@PROJECT_PATH@/assets/images/new-design.png",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
-                "title": "Perkhidmatan<br><br>",
+                "title": "<br><br>Perkhidmatan&nbsp;<br><br>",
                 "contentAlign": "right",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/home-page-5.png",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/new-design-13.png",
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -159,7 +163,7 @@
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/visi.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/new-design-1.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -219,7 +223,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/misi-2.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-8.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -242,7 +246,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/misi-1.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-5.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -265,7 +269,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/misi-3.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-4.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -371,7 +375,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-below.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -404,56 +408,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"false\">Perkhidmatan&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ams.png",
-              "class": "",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-4"
-        },
-        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "showTitle": true,
@@ -462,7 +416,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/visi-1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/graphic-6.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -500,7 +454,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/visi-1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/graphic-6.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -530,7 +484,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/visi.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/graphic-6.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -560,7 +514,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/organisation.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/graphic-6.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -597,7 +551,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-below.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -619,6 +573,57 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-r"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pegawai kanan syarikat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\">Perkhidmatan</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ENGLISH</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=ta&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html&amp;sandbox=1\" aria-expanded=\"false\" target=\"_blank\">TAMIL</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=zh-CN&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html\" aria-expanded=\"true\">MANDARIN<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">CONTACT US<br></a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-new-logos-.png",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY&nbsp;</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-s"
         }
       ]
     },
@@ -659,7 +664,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ams-without-weapon.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-11.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -682,7 +687,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ams-cit.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-14.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -705,7 +710,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cit-1.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-7.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -728,7 +733,7 @@
           "media4": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bodyguards-ams.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-9.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -800,56 +805,6 @@
           }
         },
         {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#333333"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#292929"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"false\">Perkhidmatan&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ams.png",
-              "class": "",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-4"
-        },
-        {
           "_params": {
             "showHeader": false,
             "showSubheader": false,
@@ -879,7 +834,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ams-private-investigator.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-10.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -902,7 +857,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/residential-ams.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-2.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -925,7 +880,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/central-minitoring.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-3.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -1031,7 +986,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-below.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1053,17 +1008,24 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-r"
-        }
-      ]
-    },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "Contact us",
-        "order": 1
-      },
-      "components": [
+        },
         {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pegawai kanan syarikat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\">Perkhidmatan</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ENGLISH</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=ta&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html&amp;sandbox=1\" aria-expanded=\"false\" target=\"_blank\">TAMIL</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=zh-CN&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html\" aria-expanded=\"true\">MANDARIN<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">CONTACT US<br></a></li>",
+          "_tags": [
+            "Theme"
+          ],
           "_styles": {
             ".hide-buttons [data-button]": {
               "display": "none !important"
@@ -1083,22 +1045,10 @@
               "color": "#ffffff"
             }
           },
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#333333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"false\">Perkhidmatan&nbsp;<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-ams.png",
+              "src": "@PROJECT_PATH@/assets/images/brand-new-logos-.png",
               "class": "",
               "height": 128,
               "alt": "",
@@ -1106,20 +1056,26 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY<br></a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-4"
-        },
+          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY&nbsp;</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-s"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "Contact us",
+        "order": 1
+      },
+      "components": [
         {
           "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/visi.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/new-design-1.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#efefef",
@@ -1191,7 +1147,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/small-logo-3.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-below.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1213,6 +1169,57 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-r"
+        },
+        {
+          "_inherit": "dropdown-menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#333333",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Pegawai kanan syarikat<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\">Perkhidmatan</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">LANGUAGES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ENGLISH</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=ta&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html&amp;sandbox=1\" aria-expanded=\"false\" target=\"_blank\">TAMIL</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://translate.google.com/translate?hl=&amp;sl=ms&amp;tl=zh-CN&amp;u=https%3A%2F%2Famanatssecurity.com%2Findex.html\" aria-expanded=\"true\">MANDARIN<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">CONTACT US<br></a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/brand-new-logos-.png",
+              "class": "",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white text-primary\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">AMANATS SECURITY&nbsp;</a>",
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-s"
         }
       ]
     }
