@@ -18,7 +18,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionPublish": "5.3.5",
     "uniqCompNum": 30,
     "mbrsiteDomain": "q0zw6vsxzk",
@@ -711,7 +711,7 @@
           "media3": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/new-design-7.png",
+              "src": "@PROJECT_PATH@/assets/images/new-design-25.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
