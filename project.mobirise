@@ -18,7 +18,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionPublish": "5.3.5",
     "uniqCompNum": 30,
     "mbrsiteDomain": "q0zw6vsxzk",
@@ -466,7 +466,7 @@
             "overlayOpacity": 0.5
           },
           "title": "PENGARAH EKSEKUTIF<br><br>",
-          "text": "Encik Permal Kunder A/L Karupan telah berkhidmat di dalam Kementerian Pendidikan Malaysia sebagai Guru Terlatih selama 8 tahun di Sekolah Menengah Jalan San Peng, Kuala Lumpur. Beliau kemudian telah mencerburi bidang swasta mulai tahun 1998. Antara bidang-bidang yang dicuburi dan pengalaman beliau ialah Pembinaan, Pengurusan Hartanah, Pengurusan Bangunan, Pengurus Kewangan, Pengarah Eksekutif dan sebagai pangarah serta penasihat beberapa syarikat swasta.&nbsp;<br><br>Beliau berkelulusan Sarjana dalam Pengurusan Perniagaan dari Kuala Lumpur Infrastructure University College (2010) dan Advance Diploma dalam Pentadbiran Perniagaan dari Rima College Group (1995). Dengan pengalaman yang luas dan pengetahuan dalam bidang korporat ini beliau akan berkemampuan untuk menjadikan Amanats security Sdn. Bhd sebuah syarikat dianamik dan maju.&nbsp;",
+          "text": "Encik Permal Kunder A/L Karupan telah berkhidmat di dalam Kementerian Pendidikan Malaysia sebagai Guru Terlatih selama 8 tahun di Sekolah Menengah Jalan San Peng, Kuala Lumpur. Beliau kemudian telah mencerburi bidang swasta mulai tahun 1998. Antara bidang-bidang yang dicuburi dan pengalaman beliau ialah Pembinaan, Pengurusan Hartanah, Pengurusan Bangunan, Pengurus Kewangan, Pengarah Eksekutif dan sebagai pangarah serta penasihat beberapa syarikat swasta.&nbsp;<br><br>Beliau berkelulusan Sarjana dalam Pengurusan Perniagaan dari Kuala Lumpur Infrastructure University College (2010) dan Advance Diploma dalam Pentadbiran Perniagaan dari Rima College Group (1995). Dengan pengalaman yang luas dan pengetahuan dalam bidang korporat ini beliau akan berkemampuan untuk menjadikan Amanats Security Sdn. Bhd sebuah syarikat dianamik dan maju.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
@@ -513,7 +513,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/new-design-1.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/new-design-16.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -703,7 +703,7 @@
             }
           },
           "title2": "Kawalan Keselamatan Bersenjata&nbsp;",
-          "caption2": "Pengawal Keselamatan Bersemjatapi dipilih daripada pengawal keselamatan yang telah menunjukkan perkhidmatannya sebagai pangawal keselamatan tanpa senjata.&nbsp;<br><br>Mereka ini dilatih khas menggunakan senjatapi dan sentiasa bersedia untuk memberi perlindungan bersenjatapi kepada mana-mana pelanggan syarikat kami.&nbsp;",
+          "caption2": "Pengawal Keselamatan Bersenjatapi dipilih daripada pengawal keselamatan yang telah menunjukkan perkhidmatannya sebagai pangawal keselamatan tanpa senjata.&nbsp;<br><br>Mereka ini dilatih khas menggunakan senjatapi dan sentiasa bersedia untuk memberi perlindungan bersenjatapi kepada mana-mana pelanggan syarikat kami.&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media3": {
             "image": {
@@ -726,7 +726,7 @@
             }
           },
           "title3": "Penghantaran dan Kutipan Wang Tunai (CIT)",
-          "caption3": "Syarikat kami menyediakan perkhidmatan membawa wang tunia dari satu tempat ke tempat yang lain dengan iringan kawalan senjatapi. Disamping pemindahan yang bersistematik perlindungan insuran juga disediakan oleh pihak kami. Pelanggan - pelanggan tidak perlu bersusah paya serta mempertaruhkan nyawa mereka untuk melaksanakan kerja sebegini.&nbsp;",
+          "caption3": "Syarikat kami menyediakan perkhidmatan membawa wang tunia dari satu tempat ke tempat yang lain dengan iringan kawalan senjatapi. Disamping pemindahan yang bersistematik perlindungan insuran juga disediakan oleh pihak kami. Pelanggan-pelanggan tidak perlu bersusah paya serta mempertaruhkan nyawa mereka untuk melaksanakan kerja sebegini.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media4": {
             "image": {
@@ -749,7 +749,7 @@
             }
           },
           "title4": "Pengiring dan Pegawal Peribadi (Bodyguards)",
-          "caption4": "Kami menyediakan Pengiring dan Pengawal Peribadi bersenjatapi untuk orang-orang kenamaan atau kepada sesiapa sahaja yang memerlukan perkhidmatan ini dengan harga mengikut tempoh yang diperlukan.<br>Pengiring dan Pengawal Peribadi kami adalah terdiri dari bekas - bekas anggota tentera dan polis yang telah terlatih khas di dalam bidang kawalan peribadi dan berpengalaman mengawal Pemimpin-pemimpin Negara",
+          "caption4": "Kami menyediakan Pengiring dan Pengawal Peribadi bersenjatapi untuk orang-orang kenamaan atau kepada sesiapa sahaja yang memerlukan perkhidmatan ini dengan harga mengikut tempoh yang diperlukan.<br>Pengiring dan Pengawal Peribadi kami adalah terdiri dari bekas-bekas anggota tentera dan polis yang telah terlatih khas di dalam bidang kawalan peribadi dan berpengalaman mengawal Pemimpin-pemimpin Negara",
           "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media5": {
             "image": {
