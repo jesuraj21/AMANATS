@@ -18,7 +18,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionPublish": "5.3.5",
     "uniqCompNum": 30,
     "mbrsiteDomain": "q0zw6vsxzk",
@@ -66,7 +66,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link text-primary dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Select language</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"text-primary dropdown-item\" href=\"page2.html\" aria-expanded=\"true\">English</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -97,7 +97,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/new-design-6.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -111,20 +111,20 @@
                 "overlayColor": "#7c706b"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/new-design.png",
+                "image": "@PROJECT_PATH@/assets/images/new-design-18.png",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
-                "title": "<br><br>Perkhidmatan&nbsp;<br><br>",
-                "contentAlign": "right",
+                "title": "Perkhidmatan&nbsp;<br>",
+                "contentAlign": "left",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Perkhidmatan</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/new-design-13.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/new-design-20.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -132,7 +132,10 @@
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> ",
-                "alt": ""
+                "alt": "",
+                "overlay": true,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#000000"
               }
             ]
           },
@@ -144,7 +147,7 @@
           "_anchor": "slider-3",
           "_styles": {
             "H1": {
-              "text-align": "right",
+              "text-align": "left",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
@@ -176,7 +179,7 @@
           },
           "title": "VISI",
           "text": "<b>MENJADIKAN SEBUAH SYARIKAT KAWALAN KESELAMATAN YANG PALING TERUNGGUL DI MALAYSIA&nbsp;</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">PERKHIDMATAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">PERKHIDMATAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "_tags": [
             "Theme"
           ],
@@ -241,7 +244,7 @@
           },
           "title1": "PENINGKATAN KUALITI &amp; KECERMERLANGAN PERKHIDMATAN&nbsp;",
           "caption1": "PEKERJA MAHIR DAN BERDISIPLIN&nbsp;<br>PAKAIAN SERAGAM<br>KADAR HARGA BERPATUTAN<br>MAKLUMAT PEMASARAN<br>PENDEKATAN PELANGGAN<br>PENILAIAN KEKUATAN &amp; KELEMAHAN SYARIKAT DAN PESAING",
-          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Perkhidmatan</a>",
           "media2": {
             "image": {
               "active": true,
@@ -264,7 +267,7 @@
           },
           "title2": "KEPELBAGAIAN PERKHIDMATAN &amp; KELUARAN&nbsp;",
           "caption2": "SISTEM KESELAMATAN ELEKTRONIK&nbsp;<br>SISTEM PEMANTAUAN BERPUSAT<br>PETI SIMPANAN SELAMAT<br>TRAK KESELAMATAN BERTEKNOLOGI TINGGI&nbsp;<br>KESELAMATAN MEDAN LETAK KERETA&nbsp;<br>PENGURUSAN WANG TUNAI<br>RODAAN PEMANTAUAN PERMIS KEDIAMAN",
-          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Perkhidmatan</a>",
           "media3": {
             "image": {
               "active": true,
@@ -287,7 +290,7 @@
           },
           "title3": "PENINGKATAN KEUNTUNGAN",
           "caption3": "PENINGKATAN HASIL<br>PENGAWALAN PERBELANJAAN<br>PENGHAPUSAN KETIRISAN&nbsp;<br>KEMANTAPAN PENTADBIRAN<br>PENINGKATAN KEMAHIRAN TENAGA KERJA&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media4": {
             "image": {
               "active": true,
@@ -604,7 +607,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link text-primary dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Select language</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"text-primary dropdown-item\" href=\"page2.html\" aria-expanded=\"true\">English</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -680,7 +683,7 @@
             }
           },
           "title1": "KAWALAN KESELAMATAN STATIK TANPA SENJATA",
-          "caption1": "Pegawai - pegawai Keselamatan Syarikat kami adalah dipilih dengan cara yang bersistem dan teliti, tidak mempunyai rekod jenayah dan lulus tapisan keselamatan rekod oleh pihak Polis Diraja Malaysia.&nbsp;<br><br>Mereka yang terpilih ini dilatih dan sedia melaksanakan tugas kawalan keselamatan dengan penuh tnaggungjawab dan berdisiplin.&nbsp;",
+          "caption1": "Pegawai - pegawai Keselamatan Syarikat kami adalah dipilih dengan cara yang bersistem dan teliti, tidak mempunyai rekod jenayah dan lulus tapisan keselamatan rekod oleh pihak Polis Diraja Malaysia.&nbsp;<br><br>Mereka yang terpilih ini dilatih dan sedia melaksanakan tugas kawalan keselamatan dengan penuh tanggungjawab dan berdisiplin.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media2": {
             "image": {
@@ -726,7 +729,7 @@
             }
           },
           "title3": "Penghantaran dan Kutipan Wang Tunai (CIT)",
-          "caption3": "Syarikat kami menyediakan perkhidmatan membawa wang tunia dari satu tempat ke tempat yang lain dengan iringan kawalan senjatapi. Disamping pemindahan yang bersistematik perlindungan insuran juga disediakan oleh pihak kami. Pelanggan-pelanggan tidak perlu bersusah paya serta mempertaruhkan nyawa mereka untuk melaksanakan kerja sebegini.&nbsp;",
+          "caption3": "Syarikat kami menyediakan perkhidmatan membawa wang tunai dari satu tempat ke tempat yang lain dengan iringan kawalan senjatapi. Disamping pemindahan yang bersistematik perlindungan insuran juga disediakan oleh pihak kami. Pelanggan-pelanggan tidak perlu bersusah paya serta mempertaruhkan nyawa mereka untuk melaksanakan kerja sebegini.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media4": {
             "image": {
@@ -749,7 +752,7 @@
             }
           },
           "title4": "Pengiring dan Pegawal Peribadi (Bodyguards)",
-          "caption4": "Kami menyediakan Pengiring dan Pengawal Peribadi bersenjatapi untuk orang-orang kenamaan atau kepada sesiapa sahaja yang memerlukan perkhidmatan ini dengan harga mengikut tempoh yang diperlukan.<br>Pengiring dan Pengawal Peribadi kami adalah terdiri dari bekas-bekas anggota tentera dan polis yang telah terlatih khas di dalam bidang kawalan peribadi dan berpengalaman mengawal Pemimpin-pemimpin Negara",
+          "caption4": "Kami menyediakan Pengiring dan Pengawal Peribadi bersenjatapi untuk orang-orang kenamaan atau kepada sesiapa sahaja yang memerlukan perkhidmatan ini dengan harga mengikut tempoh yang diperlukan.<br>Pengiring dan Pengawal Peribadi kami adalah terdiri dari bekas-bekas anggota tentera dan polis yang telah terlatih khas di dalam bidang kawalan peribadi dan berpengalaman mengawal pemimpin-pemimpin Negara",
           "button4": "<a data-app-btn=\"true\" href=\"page3.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Contact Us</a>",
           "media5": {
             "image": {
@@ -1038,7 +1041,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link text-primary dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Select language</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"text-primary dropdown-item\" href=\"page2.html\" aria-expanded=\"true\">English</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1198,7 +1201,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page1.html\">Pegawai Kanan Syarikat</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"page2.html\" aria-expanded=\"true\">Perkhidmatan<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link text-primary dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Select language</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"text-primary dropdown-item\" href=\"page2.html\" aria-expanded=\"true\">English</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"true\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page3.html\">Contact Us<br></a></li>",
           "logo": {
             "image": {
               "active": true,
